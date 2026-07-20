@@ -9,11 +9,11 @@ This repository contains two detailed case studies along with their respective d
 ```
 ├── CaseStudy1/
 │   ├── dataset.csv
-│   ├── analysis.ipynb
+│   ├── Image
 │   └── README.md
 ├── CaseStudy2/
 │   ├── dataset.csv
-│   ├── analysis.ipynb
+│   ├── Image
 │   └── README.md
 └── README.md
 ```
